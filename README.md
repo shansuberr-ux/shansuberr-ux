@@ -30,17 +30,16 @@ My toolkit spans FEA/CFD simulation, DFM/DFA-driven design, injection molding, s
 
 | Project | Description | Key Skills |
 |---|---|---|
-| [Radome Drag Reduction Duct](./reverse_venturi) | Reverse-Venturi duct achieving ~20% drag reduction on 5G antenna radomes · CFD validated · Patent-pending | CFD, Ansys Fluent, Aerodynamics |
-| [FDM Wind Tunnel](./windtunnel) | Fully 3D-printed functional subsonic wind tunnel for 1:16 scale die-cast car aerodynamics testing | FDM, Fluid Mechanics, CAD |
-| [Snap-Fit Non-Linear FEA](./snap_nonlinear_fea) | Production snap-fit FEA at JMA Wireless — 38N insertion, 30N removal, FOS 1.13 at fillet | Ansys, Non-Linear FEA |
-| [6-DOF Robotic Arm](./6dof_robotic_arm) | Real-time motion mirroring arm with trajectory record & playback | Mechanism Design, Arduino |
-| [Hole Anchor Gripper](./rubber_gripper) | Cam-lever expanding anchor gripper — inserts into holes and locks to lift loads · rock climbing application | SolidWorks, Mechanism Design |
-| [1:64 Gearbox](./motor_1-64_gearbox) | Multi-stage spur gear gearbox — fully designed, built and wired with DC motor | Gear Design, FDM, Manufacturing |
-| [Venturi Fan Wing](./venturi_fan_wing) | Ceiling fan with internally ducted blades for secondary jet flow augmentation | Fluid Mechanics, CAD |
-| [Forearm Workout Device](./forearm_workout_device) | 3D-printed resistance band forearm trainer — CAD designed and physically built | Prototyping, Product Design |
-| [Gear Paddle Shoe Guard](./gear_impression) | Snap-on FDM clip for bike gear paddles — prevents rubber marks on shoes · iterated prototypes | Snap-Fit, FDM |
-| [GarbageX — NIT Trichy](./garbageX_NIT_trichy) | Adhesive belt mechanism for floating water-body waste removal · 🏆 Runner-up / 50 teams | Concept Design, Competition |
-
+| [Radome Drag Reduction Duct](https://github.com/shansuberr-ux/reverse-venturi-radome-duct) | Reverse-Venturi duct achieving ~20% drag reduction on 5G antenna radomes · CFD validated · Patent-pending | CFD, Ansys Fluent, Aerodynamics |
+| [FDM Wind Tunnel](https://github.com/shansuberr-ux/windtunnel) | Fully 3D-printed functional subsonic wind tunnel for 1:16 scale die-cast car aerodynamics testing | FDM, Fluid Mechanics, CAD |
+| [Snap-Fit Non-Linear FEA](https://github.com/shansuberr-ux/snap-nonlinear-fea) | Production snap-fit FEA at JMA Wireless — 38N insertion, 30N removal, FOS 1.13 at fillet | Ansys, Non-Linear FEA |
+| [6-DOF Robotic Arm](https://github.com/shansuberr-ux/6dof-robotic-arm) | Real-time motion mirroring arm with trajectory record & playback | Mechanism Design, Arduino |
+| [Hole Anchor Gripper](https://github.com/shansuberr-ux/hole-anchor-gripper) | Cam-lever expanding anchor gripper — inserts into holes and locks to lift loads · rock climbing application | SolidWorks, Mechanism Design |
+| [1:64 Gearbox](https://github.com/shansuberr-ux/motor-1-64-gearbox) | Multi-stage spur gear gearbox — fully designed, built and wired with DC motor | Gear Design, FDM, Manufacturing |
+| [Venturi Fan Blade](https://github.com/shansuberr-ux/venturi-fan-blade) | Ceiling fan with internally ducted blades for secondary jet flow augmentation | Fluid Mechanics, CAD |
+| [Forearm Workout Device](https://github.com/shansuberr-ux/forearm-workout-device) | 3D-printed resistance band forearm trainer — CAD designed and physically built | Prototyping, Product Design |
+| [Gear Paddle Shoe Guard](https://github.com/shansuberr-ux/gear-paddle-shoe-guard) | Snap-on FDM clip for bike gear paddles — prevents rubber marks on shoes · iterated prototypes | Snap-Fit, FDM |
+| [GarbageX — NIT Trichy](https://github.com/shansuberr-ux/garbageX-NIT-trichy) | Adhesive belt mechanism for floating water-body waste removal · 🏆 Runner-up / 50 teams | Concept Design, Competition |
 ---
 
 ## 💼 Experience Highlights
