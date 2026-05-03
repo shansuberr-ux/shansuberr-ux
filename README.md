@@ -32,7 +32,7 @@ My toolkit spans FEA/CFD simulation, DFM/DFA-driven design, injection molding, s
 |---|---|---|
 | [Radome Drag Reduction Duct](https://github.com/shansuberr-ux/reverse-venturi-radome-duct) | Reverse-Venturi duct achieving ~20% drag reduction on 5G antenna radomes · CFD validated · Patent-pending | CFD, Ansys Fluent, Aerodynamics |
 | [FDM Wind Tunnel](https://github.com/shansuberr-ux/windtunnel) | Fully 3D-printed functional subsonic wind tunnel for 1:16 scale die-cast car aerodynamics testing | FDM, Fluid Mechanics, CAD |
-| [Snap-Fit Non-Linear FEA](https://github.com/shansuberr-ux/snap-nonlinear-fea) | Production snap-fit FEA at JMA Wireless — 38N insertion, 30N removal, FOS 1.13 at fillet | Ansys, Non-Linear FEA |
+| [Snap-Fit Non-Linear FEA](https://github.com/shansuberr-ux/snap_nonlinear_fea) | Production snap-fit FEA at JMA Wireless — 38N insertion, 30N removal, FOS 1.13 at fillet | Ansys, Non-Linear FEA |
 | [6-DOF Robotic Arm](https://github.com/shansuberr-ux/6dof-robotic-arm) | Real-time motion mirroring arm with trajectory record & playback | Mechanism Design, Arduino |
 | [Hole Anchor Gripper](https://github.com/shansuberr-ux/hole-anchor-gripper) | Cam-lever expanding anchor gripper — inserts into holes and locks to lift loads · rock climbing application | SolidWorks, Mechanism Design |
 | [1:64 Gearbox](https://github.com/shansuberr-ux/motor-1-64-gearbox) | Multi-stage spur gear gearbox — fully designed, built and wired with DC motor | Gear Design, FDM, Manufacturing |
